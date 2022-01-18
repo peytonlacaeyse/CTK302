@@ -4,8 +4,8 @@ function setup() {
 }
 
 function draw() {
-  background('blue') ;
-  fill('white') ;
+  background('red') ;
+  fill('blue') ;
   textSize(32) ;
-  text("hello world!", 250, 250) ;
+  text("daredevil!!", 250, 250) ;
 }
